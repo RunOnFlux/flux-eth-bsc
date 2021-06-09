@@ -1,0 +1,21 @@
+{
+  "name": "flux-eth-bsc",
+  "version": "1.0.0",
+  "description": "Flux-ETH-BSC",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "flux"
+  ],
+  "author": "TheTrunk",
+  "license": "MIT",
+  "devDependencies": {
+    "@openzeppelin/contracts": "4.1.0",
+    "hardhat": "^2.3.0"
+  },
+  "dependencies": {
+    "truffle": "^5.3.9"
+  }
+}
