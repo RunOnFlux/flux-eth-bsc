@@ -16,6 +16,6 @@
     "hardhat": "^2.3.0"
   },
   "dependencies": {
-    "truffle": "^5.3.9"
+    "truffle": "^5.8.3"
   }
 }
